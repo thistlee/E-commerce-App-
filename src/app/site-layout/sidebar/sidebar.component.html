@@ -1,0 +1,35 @@
+<div class="sticky-top">
+  <nav class="navbar navbar-expand-lg">
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <div class="sidebar" style="position: sticky;">
+        <a
+          class="list-group-item list-group-item-action list-group-item-light p-3"
+          href="products"
+          style="background-color: #8bb7d6;"
+          id="2"
+        >
+          VIEW All ITEMS
+        </a>
+        <a
+          href="products/add-product"
+          class="list-group-item list-group-item-action list-group-item-light p-3"
+          style="border: none; background-color: #aecadf81;"
+        >
+          ADD NEW PRODUCT
+        </a>
+        <div
+          class="list-group list-group-flush"
+          *ngFor="let catg of categoryList"
+          id="sticky-sidebar"
+        >
+          <a
+            class="list-group-item list-group-item-action list-group-item-light p-3"
+            href="products/category/{{ catg.id }}"
+          >
+            {{ catg.categoryName }}
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+</div>

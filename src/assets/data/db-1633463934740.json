@@ -1,0 +1,396 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "productName": "PASTEL EVIL EYE PHONE CHARM",
+      "categoryId": 4,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s1.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 2,
+      "productName": "PASTEL PINK EVIL EYE PHONE CHARM",
+      "categoryId": 4,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s2.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 3,
+      "productName": "SKY BLUE EVIL EYE PHONE CHARM",
+      "categoryId": 4,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s3.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 4,
+      "productName": "WHITE CRYSTAL EVIL EYE PHONE CHARM",
+      "categoryId": 4,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s4.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 5,
+      "productName": "PATEL GREEN EVIL EYE PHONE CHARM",
+      "categoryId": 4,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s5.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 6,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 1,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s10.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 7,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 1,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s9.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 8,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 1,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s11.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 9,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 1,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s12.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 10,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 1,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s13.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 11,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 1,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s14.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 12,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 1,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s15.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 13,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 1,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s16.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 14,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 1,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s17.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 15,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 5,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s6.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 16,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 5,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s7.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 17,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 5,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s8.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 18,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 5,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s22.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 19,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 5,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s23.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 20,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 2,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s24.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 21,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 2,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s25.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 22,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 2,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s26.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 23,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 2,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s18.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 24,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 6,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s19.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 25,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 6,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s20.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 26,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 6,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s21.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 27,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 3,
+      "descriptions": "multi pastel color evil eye phone charm with white plastic pearls ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s27.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "RESIN KEY-CHAINS"
+    },
+    {
+      "id": 2,
+      "categoryName": "RESIN COASTERS"
+    },
+    {
+      "id": 3,
+      "categoryName": "RESIN PHOTO-FRAMES"
+    },
+    {
+      "id": 4,
+      "categoryName": "PHONE CHARMS"
+    },
+    {
+      "id": 5,
+      "categoryName": "RESIN BOOKMARKS"
+    },
+    {
+      "id": 6,
+      "categoryName": "RESIN POP-SOCKLETS"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,41 @@
+<div class="container">
+  <div class="row">
+    <div class="col-lg-4">
+      <app-sidebar></app-sidebar>
+    </div>
+    <div class="col-lg-8">
+      <section class="py-5">
+        <div class="row">
+          <div
+            class="col-lg-4 col-md-6 mb-4"
+            *ngFor="let products of productList"
+          >
+            <div class="card h-100">
+              <!-- Product image-->
+              <img
+                class="card-img-top"
+                src="{{ products.productImg }}"
+                alt="..."
+              />
+              <!-- Product details-->
+              <div class="card-body p-4">
+                <div class="text-center">
+                  <!-- Product name-->
+                  <a class="fw-bolder">
+                    {{ products.productName }}
+                  </a>
+                  <!-- Product price-->
+                  <br />
+                  ₹{{ products.price }}
+                  <!-- Product description-->
+                  <!--<p>{{products.descriptions}}</p>-->
+                </div>
+              </div>
+              <!-- Product actions-->
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>

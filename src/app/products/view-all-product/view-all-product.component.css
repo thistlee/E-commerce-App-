@@ -1,0 +1,6 @@
+a{color: #8bb7d6;}
+
+@media only screen and (max-width:1280px) {
+
+    div#carouselExampleIndicators{display: none;}
+}

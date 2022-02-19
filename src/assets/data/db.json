@@ -1,0 +1,368 @@
+{
+  "product": [
+    {
+      "id": 3,
+      "productName": "SKY BLUE EVIL EYE PHONE CHARM",
+      "categoryId": 4,
+      "descriptions": "sky blue color evil eye phone charm with blue plastic pearls and crystals",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s3.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 4,
+      "productName": "WHITE CRYSTAL EVIL EYE PHONE CHARM",
+      "categoryId": 4,
+      "descriptions": "white color evil eye phone charm with white plastic pearls and crystals",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s4.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 5,
+      "productName": "PATEL GREEN EVIL EYE PHONE CHARM",
+      "categoryId": 4,
+      "descriptions": " pastel green color evil eye phone charm with green plastic pearls and crystals ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s5.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 6,
+      "productName": "C RESIN KEY CHAIN",
+      "categoryId": 1,
+      "descriptions": "yellow letter c key chain ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s10.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 8,
+      "productName": "A RESIN KEY CHAIN",
+      "categoryId": 1,
+      "descriptions": "letter A resin key chain with multi coloured heart shaped stickers in resin",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s11.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 9,
+      "productName": "D & G RESIN KEY CHAIN",
+      "categoryId": 1,
+      "descriptions": "d and g desin letters from ocean blue series cab be customized by yourself by puttin key chain or black thread ",
+      "price": 225,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s12.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 10,
+      "productName": "O RESIN KEY CHAIN",
+      "categoryId": 1,
+      "descriptions": "letter O resin key chain consisting of multicolor sparkles design ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s13.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 11,
+      "productName": "T RESIN KEY CHAIN",
+      "categoryId": 1,
+      "descriptions": "letter T resin key chain consisting of multicolor sparkles design ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s14.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 12,
+      "productName": "B RESIN KEY CHAIN",
+      "categoryId": 1,
+      "descriptions": "letter B resin key chain consisting of multicolor sparkles design ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s15.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 13,
+      "productName": "B AND M RESIN KEY CHAIN WITH BOOKMARK COMBO",
+      "categoryId": 1,
+      "descriptions": "golden sparkle resin key chain of letter 'B' and 'M' and a bookmark",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s16.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 14,
+      "productName": "RESIN KEYCHAINS/LOCKETS ",
+      "categoryId": 1,
+      "descriptions": "TWO IN ONE RESIN CHARMS CAN BE USED AS BOTH KWYCHAINS OR LOCKETS ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s17.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 15,
+      "productName": "PINK AND GOLDEN SHIMMER BOOKMARK",
+      "categoryId": 5,
+      "descriptions": "IT IS A BEAUTIFULL BOOKMARK CONSISTING OF PINK AND GOLDEN SHIMMER MADE OF RESIN",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s6.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 16,
+      "productName": "BRONZE AND BLACK SHIMMER BOOKMARK",
+      "categoryId": 5,
+      "descriptions": "IT IS A BEAUTIFULL BOOKMARK CONSISTING OF BRONZE AND BLACK SHIMMER MADE OF RESIN",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s7.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 17,
+      "productName": "QUOTE RESIN BOOKMARK ",
+      "categoryId": 5,
+      "descriptions": "IT IS A RESIN BOOKMARK WITH BITS OF PAPER CONSISTING OF QUOTES  ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s8.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 18,
+      "productName": "BLUE AND GOLDEN SHIMMER BOOKMARK",
+      "categoryId": 5,
+      "descriptions": "IT IS A BEAUTIFULL BOOKMARK CONSISTING OF BLUE AND GOLDEN SHIMMER MADE OF RESIN ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s22.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 19,
+      "productName": "LEAF SHAPED BOOKMARK",
+      "categoryId": 5,
+      "descriptions": "LEAF SHAPED RESIN BOOKMARK WITH BRIGH PINK AND GOLDEN SHIMMER ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s23.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 20,
+      "productName": "DRY LEAVES RESIN COASTER",
+      "categoryId": 2,
+      "descriptions": "BEAUTIFULL RESIN COASTER MADE OF AUTUM DRY LEAVES , IT GIVES YOU FALL VIBES",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s24.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 21,
+      "productName": "WHITE AND GOLD SHIMMER RESIN COASTER ",
+      "categoryId": 2,
+      "descriptions": "BESUTIFUL RESIN COASTER MADE WITH  WHITE PAINT AND GOLDEN GLTTER,IT WILL MAKE YOUR TEA CUP LOOK AESTHETIC ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s25.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 22,
+      "productName": "RESIN COASTER",
+      "categoryId": 2,
+      "descriptions": "IT IS RESIN COASTER WITH COMBINATION OF BLACK WHITE AND GOLDEN SHIMMER",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s26.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 23,
+      "productName": "MICKEY  MOUSE POPSOCKET",
+      "categoryId": 6,
+      "descriptions": "IT IS A RESIN POPSOCKET MADE IN MICKEY MOUSE SHAPE WHIVK IS RED IN COLOR ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s18.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 24,
+      "productName": "WHITE MARBEL POPSOCKET",
+      "categoryId": 6,
+      "descriptions": "IT IS RESIN POPSOCKET WHICH LOOKS LIKE MARBEL ,IT IS HALF WHITE IN COLOR ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s19.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 25,
+      "productName": " STICKERY RESIN POPSOCKET",
+      "categoryId": 6,
+      "descriptions": "THIS IS A RESIN PRODUCT ,HEART SHPED STICKERS ARE SPRINKELED TO GIVE A DIFFRENT  LOOK TO THE POPSOCKET",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s20.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 26,
+      "productName": "DRY FLOWER POPSOCKET",
+      "categoryId": 6,
+      "descriptions": "IT IS A RESINN POPSOCKET WHICH CONSIST OF REAL DRY FLOWER ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s21.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 27,
+      "productName": "RESIN PHOTO FRAME",
+      "categoryId": 3,
+      "descriptions": "RESIN PHOTO FRAME IT ALSO  HAS A SMALL WOODEN STAND ",
+      "price": 150,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/s27.jpg",
+      "rating": 5,
+      "review": 50,
+      "vendor name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 102,
+      "categoryId": "2",
+      "productName": "PINK LETTER P KEY CHAIN",
+      "descriptions": "hfgdsjv",
+      "rating": "",
+      "price": "",
+      "isAvaiable": 1,
+      "color": "",
+      "reviews": "2"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "RESIN KEY-CHAINS"
+    },
+    {
+      "id": 2,
+      "categoryName": "RESIN COASTERS"
+    },
+    {
+      "id": 3,
+      "categoryName": "RESIN PHOTO-FRAMES"
+    },
+    {
+      "id": 4,
+      "categoryName": "PHONE CHARMS"
+    },
+    {
+      "id": 5,
+      "categoryName": "RESIN BOOKMARKS"
+    },
+    {
+      "id": 6,
+      "categoryName": "RESIN POP-SOCKLETS"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

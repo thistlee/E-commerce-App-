@@ -1,0 +1,60 @@
+<div class="container">
+  <div class="row">
+    <div class="col-lg-3">
+      <app-sidebar></app-sidebar>
+    </div>
+    <div class="col-lg-9">
+      <div>
+        <section class="py-5">
+          <div class="container px-4 px-lg-5 my-5">
+            <div class="row gx-4 gx-lg-5 align-items-center">
+              <div class="col-md-6">
+                <img
+                  class="card-img-top mb-5 mb-md-0"
+                  src="{{ productData.productImg }}"
+                  alt="..."
+                />
+              </div>
+              <div class="col-md-6">
+                <div class="small mb-1">SKU: BST-498</div>
+                <h1 class="display-5 fw-normal fs-2">
+                  {{ productData.productName }}
+                </h1>
+                <div class="fs-5 mb-5">
+                  <span class="text-decoration-line-through"></span>
+                  <span class="fw-bold">₹ {{ productData.price }}</span>
+                </div>
+                <p class="lead font-monospace text-decoration-underline">
+                  {{ productData.descriptions }}
+                </p>
+                <div class="d-flex">
+                  <button
+                    class="btn btn-outline-light flex-shrink-0"
+                    style="background-color: #8bb7d6;"
+                    type="button"
+                  >
+                    <i class="bi-cart-fill me-1"></i>
+                    <a href="products/update-product/{{ productData.id }}">
+                      UPDATE PRODUCT
+                    </a>
+                  </button>
+
+                  <button
+                    class="btn btn-outline-light flex-shrink-0"
+                    style="background-color: #8bb7d6;"
+                    type="button"
+                  >
+                    <i class="bi-cart-fill me-1"></i>
+                    <a href="products/delete-product/{{ productData.id }}">
+                      DELETE PRODUCT
+                    </a>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+</div>

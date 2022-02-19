@@ -1,0 +1,15 @@
+@media only screen and (max-width:360px) {
+    app-header{width: full;}
+}
+body{min-height: 100vh;
+    display: flex;
+    flex-direction: column;}
+app-footer.fo{
+    position:static;
+bottom: 0px;
+width: 100%;
+margin-top: auto;}
+
+@media only screen and (min-width:281px) and (max-width:320px) {
+    app-footer.fo{margin-top: 100px;}
+}

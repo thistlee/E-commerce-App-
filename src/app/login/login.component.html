@@ -1,0 +1,36 @@
+<div class="container">
+  <div class="row">
+    <div class="bor">
+      <div class="form-floating mb-3">
+        <input
+          type="email"
+          class="form-control"
+          id="floatingInput"
+          placeholder="name@example.com"
+          [(ngModel)]="email"
+        />
+        <label for="floatingInput">Email address</label>
+      </div>
+      <div class="form-floating">
+        <input
+          type="password"
+          class="form-control"
+          id="floatingPassword"
+          placeholder="Password"
+          [(ngModel)]="password"
+        />
+        <label for="floatingPassword">Password</label>
+      </div>
+      <div id="bu" style="padding-top: 10px; align-items: center;">
+        <button
+          class="btn btn-outline-light"
+          style="background-color: #8bb7d6;"
+          type="submit"
+          (click)="logIn()"
+        >
+          LOGIN
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
